@@ -1,0 +1,37 @@
+_repo: Against-War_39487
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Erasmus, Desiderius
+    alias: Erasmus, of Rotterdam
+    birthdate: 1469
+    deathdate: 1536
+    gutenberg_agent_id: '3026'
+    url: http://www.gutenberg.org/2009/agents/3026
+    wikipedia: http://en.wikipedia.org/wiki/Erasmus
+  editor:
+    agent_name: Mackail, J. W. (John William)
+    alias: Mackail, John William
+    birthdate: 1859
+    deathdate: 1945
+    gutenberg_agent_id: '881'
+    url: http://www.gutenberg.org/2009/agents/881
+    wikipedia: http://en.wikipedia.org/wiki/John_William_Mackail
+description: ''
+gutenberg_issued: '2012-04-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39487'
+  lccn: '07036263'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'War'
+- !lcc 'JX'
+title: Erasmus Against War
+url: http://www.gutenberg.org/ebooks/39487
